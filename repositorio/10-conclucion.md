@@ -1,5 +1,3 @@
-
-
 ## 🔜 Próximos pasos
 
 Las siguientes secciones resaltan funciones e información adicional que puedes encontrar útil para **aprovechar al máximo los repositorios Git** en el Hugging Face Hub.
